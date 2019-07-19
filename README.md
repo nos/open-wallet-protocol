@@ -1,4 +1,4 @@
-# Open Wallet Protocol
+# Open Wallet protocol
 
 **NOTE: Not yet standardized!**
 
