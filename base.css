@@ -68,7 +68,6 @@ td {
 #footer {
   margin-left: 31px;
   margin-right: 31px;
-  margin-top: 80px;
 }
 
 #content p,
@@ -85,7 +84,7 @@ td {
 }
 
 #footer {
-  margin-top: 1em;
+  margin-top: 80px;
 }
 
 #content h1,
