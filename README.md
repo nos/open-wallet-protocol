@@ -22,13 +22,14 @@ meta tag for a cryptocurrency wallet is:
 
 <p>The <i><code>content</code></i> attribute should contain the wallet’s full public address.</p>
 
-<p>As an example, the following is the Open Wallet markup for the Genesis Bitcoin Address:</p>
+<p>As an example, the following is the Open Wallet markup for a Bitcoin address and an Ethereum address:</p>
 
 ```html
 <html>
 <head>
 <title>My Web App</title>
 <meta name="wallet:btc" content="1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" />
+<meta name="wallet:eth" content="0x3f5CE5FBFe3E9af3971dD833D26bA9b5C936f0bE" />
 ...
 </head>
 ...
