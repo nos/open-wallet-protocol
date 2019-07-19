@@ -1,4 +1,6 @@
-# open-wallet-protocol
+# Open Wallet Protocol
+
+**NOTE: Not yet standardized!**
 
 ## Introduction
 
@@ -14,7 +16,7 @@ your page. We've based the initial version of the protocol on
 additional <code>&lt;meta&gt;</code> tags in the <code>&lt;head&gt;</code> of your web page. The 
 meta tag for a cryptocurrency wallet is:
 
-<p> <code>&lt;meta name="ow:{ticker}" content="{address}" /&gt;</code> </p>
+<p> <code>&lt;meta name="wallet:{ticker}" content="{address}" /&gt;</code> </p>
 
 <p>The <i><code>name</code></i> attribute should contain the representation of the wallet’s primary belonging cryptocurrency ticker in lowercase. For example “btc” for Bitcoin and “eth” for Ethereum.</p>
 
@@ -25,7 +27,7 @@ meta tag for a cryptocurrency wallet is:
 <pre><code>&lt;html&gt;
 &lt;head&gt;
 &lt;title&gt;My Web App&lt;/title&gt;
-&lt;meta name="ow:btc" content="1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" /&gt;
+&lt;meta name="wallet:btc" content="1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" /&gt;
 ...
 &lt;/head&gt;
 ...
