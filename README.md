@@ -24,12 +24,13 @@ meta tag for a cryptocurrency wallet is:
 
 <p>As an example, the following is the Open Wallet markup for the Genesis Bitcoin Address:</p>
 
-<pre><code>&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;My Web App&lt;/title&gt;
-&lt;meta name="wallet:btc" content="1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" /&gt;
+```html
+<html>
+<head>
+<title>My Web App</title>
+<meta name="wallet:btc" content="1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" />
 ...
-&lt;/head&gt;
+</head>
 ...
-&lt;/html&gt;
-</code></pre>
+</html>
+```
