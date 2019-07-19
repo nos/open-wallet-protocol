@@ -6,7 +6,7 @@
 
 The [Open Wallet protocol](https://openwalletprotocol.org) enables any web page to add cryptocurrency addresses which other software can interact with.
 
-Open Wallet protocol follows the same semantics as the Open Graph protocol, to make the experience of adding meta properties containing cryptocurrency wallets feel familiar.
+Open Wallet protocol follows the same semantics as the Open Graph protocol, to make the experience of adding meta properties containing cryptocurrency wallets familiar for web developers.
 
 ## Basic Metadata
 
