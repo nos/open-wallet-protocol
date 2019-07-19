@@ -8,7 +8,7 @@ The [Open Wallet protocol](https://openwalletprotocol.org) enables any web page 
 
 Open Wallet protocol follows the same semantics as the Open Graph protocol, to make the experience of adding meta properties containing cryptocurrency wallets feel familiar.
 
-## Basis Metadata
+## Basic Metadata
 
 To add wallet addresses into your web page, you need to add basic metadata to
 your page. We've based the initial version of the protocol on
